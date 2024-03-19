@@ -1,1 +1,4 @@
 node_modules/
+
+# The environment variables file must not be tracked
+.env
